@@ -35,5 +35,4 @@ public class ProjectConfig {
         person.setVehicle(vehicle());
         return person;
     }
-
 }
